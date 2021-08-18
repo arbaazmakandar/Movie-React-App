@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+  border: 1px solid black;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.red-heart {
+  color: red;
+}
+.red {
+  background-color: #f74f43;
+}
+.green {
+  background-color: #2bcc36;
+}
